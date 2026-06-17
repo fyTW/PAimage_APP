@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.3.1",
-    "notes":  "初步集成配准模块",
+    "version":  "0.3.2",
+    "notes":  "修复已知问题",
     "installer_url":  "https://github.com/fyTW/PAimage_APP/raw/main/PAimage_Setup.exe",
     "release_url":  "https://github.com/fyTW/PAimage_APP"
 }
