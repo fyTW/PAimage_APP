@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.3.3",
-    "notes":  "修复已知问题",
-    "installer_url":  "https://github.com/fyTW/PAimage_APP/raw/main/PAimage_Setup.exe",
-    "release_url":  "https://github.com/fyTW/PAimage_APP"
+    "version":  "0.3.5",
+    "notes":  "支持 MAT v4-v7.3；修复后台版本自检；增加 ROI 曲线实时显隐",
+    "installer_url":  "https://pan.baidu.com/s/1m5Z3H_cHaP1z68jJFEpmpA?pwd=4cyi",
+    "release_url":  "https://pan.baidu.com/s/1m5Z3H_cHaP1z68jJFEpmpA?pwd=4cyi"
 }

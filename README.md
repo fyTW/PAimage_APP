@@ -2,7 +2,7 @@
 
 Download the latest installer directly:
 
-[PAimage_Setup.exe](https://github.com/fyTW/PAimage_APP/raw/main/PAimage_Setup.exe)
+[PAimage_Setup.exe](https://pan.baidu.com/s/1m5Z3H_cHaP1z68jJFEpmpA?pwd=4cyi)
 
 SHA256: $hash
 
