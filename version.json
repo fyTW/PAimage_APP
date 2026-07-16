@@ -1,6 +1,6 @@
-﻿{
-    "version":  "0.3.6",
-    "notes":  "增加了归一化的方式",
-    "installer_url":  "https://pan.baidu.com/s/1doHT2A67D1snaeEM67X-lw?pwd=vx2w",
-    "release_url":  "https://pan.baidu.com/s/1doHT2A67D1snaeEM67X-lw?pwd=vx2w"
+{
+    "version":  "0.3.7",
+    "notes":  "-更新了删除roi的逻辑\r\n-增加了安装时可以自由选择安装路径",
+    "installer_url":  "https://pan.baidu.com/s/15EtNHUPZFZqzkvTx10XxAw?pwd=swc9",
+    "release_url":  "https://pan.baidu.com/s/15EtNHUPZFZqzkvTx10XxAw?pwd=swc9"
 }
