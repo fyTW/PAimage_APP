@@ -1,6 +1,6 @@
 {
-    "version":  "0.6.5",
-    "notes":  "-新增了8路系统重建模块\r\n-修复已知bug",
-    "installer_url":  "https://pan.baidu.com/s/1a-JrWqkWzWY4QXl9FIGvcA?pwd=rf7w",
-    "release_url":  "https://pan.baidu.com/s/1a-JrWqkWzWY4QXl9FIGvcA?pwd=rf7w"
+    "version":  "0.7.2",
+    "notes":  "-本次更新新增 B-scan 显示及声学延时点击选取、八光纤粗配准与手动细配准流程、封闭双声速介质掩膜、S1/S2 实时滑轨预览，以及所有重建画布的拖框缩放功能。\r\n-重建性能方面优化CPU和GPU调度协同以及对复杂介质掩膜栅格化优化，重建速度提升1.5倍。\r\n-修复大尺寸重建完成后卡顿、右侧控件重叠及下拉框异常等问题。程序保持完全原生运行，不依赖任何 MATLAB 组件。",
+    "installer_url":  "https://pan.baidu.com/s/1TflkpWeNxjUu7zf_JUBFog?pwd=uj5n",
+    "release_url":  "https://pan.baidu.com/s/1TflkpWeNxjUu7zf_JUBFog?pwd=uj5n"
 }
