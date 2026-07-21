@@ -1,6 +1,6 @@
 {
-    "version":  "0.8.0",
-    "notes":  "-新增64重建\r\n-新增多个文件夹依次重建\r\n-新增配准参数保存\r\n-新增刺激分析方式",
-    "installer_url":  "https://pan.baidu.com/s/19roNIqcEMA6VMAtEqZodYQ?pwd=csnx",
-    "release_url":  "https://pan.baidu.com/s/19roNIqcEMA6VMAtEqZodYQ?pwd=csnx"
+    "version":  "0.8.1",
+    "notes":  "-修复了生成配准文件时粗配准错误的问题\r\n-修复了其他已知Bug",
+    "installer_url":  "https://pan.baidu.com/s/1rJQuhPrPkM6BMKmjJfie7A?pwd=qiqh",
+    "release_url":  "https://pan.baidu.com/s/1rJQuhPrPkM6BMKmjJfie7A?pwd=qiqh"
 }
