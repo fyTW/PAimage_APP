@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "notes":  "PAimage 1.0.0 重要更新（相较 0.9.0）\r\n\r\n1. 全面升级实时 DAS：采集脉冲到达后立即进入重建，不再等待整帧数据集中处理，显著降低完整扫描后的出图延迟，并支持连续多帧稳定刷新。\r\n\r\n2. 修复往复式扫描方向：每次开始测量后，以软件收到的第一个完整同步脉冲作为第1帧起点，不再使用采集卡不会清零的硬件触发号判断帧号；第一帧保持右到左顺序，仅反转偶数帧。\r\n\r\n3. 修复重复测量和连续帧问题：清除上次测量残留缓存，重新开始时帧号和奇偶性从头计算；修复发送400个脉冲时第二帧不能正确显示等问题。\r\n\r\n4. 新增完整的 MC410T 实时成像功能：支持四卡同步采集、实时 DAS、实时 A-line、真实帧号显示、独立启停测量及采集数据异步保存。\r\n\r\n5. 强化采集卡通信与网络诊断：统一 CONFIG/START/STOP 协议，增加四卡配置确认、自动网卡与采集卡发现、UDP状态、ARP及防火墙诊断。\r\n\r\n6. 扩展原生重建能力：支持 DAS、UBP、CF-DAS、CF-UBP、DMAS及k-Wave，可选择GPU或CPU运行；支持8路和64路重建、批量处理、配准调整、MAT/PNG导出及气泡伪影抑制。\r\n\r\n7. 实时 DAS、A-line、网络、声速、配准及保存参数现可自动保存，重启软件后自动恢复。\r\n\r\n8. 更新CUDA实时重建核心并随安装包完整提供运行环境，无需单独安装MATLAB或CUDA Toolkit。",
-    "installer_url":  "https://pan.baidu.com/s/1yzHZeZB9NR4lMjle8m0tMw?pwd=sin4",
-    "release_url":  "https://pan.baidu.com/s/1yzHZeZB9NR4lMjle8m0tMw?pwd=sin4"
+    "version":  "1.1.0",
+    "notes":  "-增加了可以保存视频的选项\r\n-增加了内窥实时成像",
+    "installer_url":  "https://pan.baidu.com/s/1UC293LVpqpcDAvtoQbsdIw?pwd=tudp",
+    "release_url":  "https://pan.baidu.com/s/1UC293LVpqpcDAvtoQbsdIw?pwd=tudp"
 }
