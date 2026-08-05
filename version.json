@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "notes":  "-增加了可以保存视频的选项\r\n-增加了内窥实时成像",
-    "installer_url":  "https://pan.baidu.com/s/1UC293LVpqpcDAvtoQbsdIw?pwd=tudp",
-    "release_url":  "https://pan.baidu.com/s/1UC293LVpqpcDAvtoQbsdIw?pwd=tudp"
+    "version":  "1.2.0",
+    "notes":  "-新增了单路实时重建\r\n-修复了已知bug",
+    "installer_url":  "https://pan.baidu.com/s/1hu5URAMvwtwYIzGP_ZkS3Q?pwd=22n7",
+    "release_url":  "https://pan.baidu.com/s/1hu5URAMvwtwYIzGP_ZkS3Q?pwd=22n7"
 }
