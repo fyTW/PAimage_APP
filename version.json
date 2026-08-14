@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.0",
-    "notes":  "# PAimage v1.5.0 更新日志\r\n\r\n本次版本在 v1.2.0 的基础上，重点升级了科研绘图、实时成像、视频录制和操作界面。\r\n\r\n## 主要更新\r\n\r\n### 科研绘图\r\n\r\n- 新增论文级图像与统计图输出设置。\r\n- 可自定义 DPI、输出尺寸、字体、字号、线宽和坐标轴粗细。\r\n- 可编辑图标题、横坐标和纵坐标名称。\r\n- 支持调整曲线、背景、坐标轴及 ROI 颜色。\r\n- 新增灰度、Viridis、Inferno 等科研色图。\r\n- 支持导出 600 DPI 的 PNG 和 TIFF 图像。\r\n\r\n### 实时成像与录制\r\n\r\n- 全扫描和内窥模式新增双声速传播。\r\n- 支持独立设置成像网格、宽度和深度。\r\n- 支持实时切换扫描方向、显示通道和刷新步数。\r\n- 原始数据与 MP4 视频可同步开始和停止录制。\r\n- 提高视频分辨率和码率，减少亮度闪烁。\r\n\r\n### 界面与科研工具\r\n\r\n- 优化导航栏、图像画布和参数面板布局。\r\n- 加深下拉框及可交互区域的背景颜色。\r\n- 参数名称支持悬停说明，可查看用途和常用值。\r\n- 新增项目保存、实验预设、运行检查和结果对比。\r\n- 支持 ROI 信息管理、批处理和实验报告生成。\r\n- 优化高 DPI 显示和常用快捷键操作。\r\n\r\n### 品牌与稳定性\r\n\r\n- 更新布拉格光栅主题的程序图标、启动画面和水印。\r\n- 修复侧边栏拖动残影及部分控件对齐问题。\r\n- 改善实时采集状态显示和停止后的状态重置。\r\n- 提升图像显示、统计图导出及视频录制稳定性。",
-    "installer_url":  "https://pan.baidu.com/s/1Uwo78vADAoODjvtw1Fbe6w?pwd=6gy7",
-    "release_url":  "https://pan.baidu.com/s/1Uwo78vADAoODjvtw1Fbe6w?pwd=6gy7"
+    "version":  "1.5.3",
+    "notes":  "PAimage v1.5.3 更新日志（相对于 v1.5.0）\n\r\n优化 8 路、64 路稀疏、内窥圆周和 8 路全扫描实时成像模式。\n\r\n新增实时 TimeWeight 时间加权选项：none、p-tdp、2p-tdp。\r\n\n优化 64 路时分复用通道映射、延时校准和实时采集流程。\r\n\n新增实时采集数据/视频保存、网卡自动发现及参数分模式保存。\r\n\n优化界面布局、参数提示、主题样式和实时成像稳定性。",
+    "installer_url":  "https://pan.baidu.com/s/1JxH2jNJhAD0eMGLG1DQ6pg?pwd=43hi",
+    "release_url":  "https://pan.baidu.com/s/1JxH2jNJhAD0eMGLG1DQ6pg?pwd=43hi"
 }
