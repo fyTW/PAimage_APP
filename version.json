@@ -1,6 +1,6 @@
 {
-    "version":  "1.5.3",
-    "notes":  "PAimage v1.5.3 更新日志（相对于 v1.5.0）\n\r\n优化 8 路、64 路稀疏、内窥圆周和 8 路全扫描实时成像模式。\n\r\n新增实时 TimeWeight 时间加权选项：none、p-tdp、2p-tdp。\r\n\n优化 64 路时分复用通道映射、延时校准和实时采集流程。\r\n\n新增实时采集数据/视频保存、网卡自动发现及参数分模式保存。\r\n\n优化界面布局、参数提示、主题样式和实时成像稳定性。",
-    "installer_url":  "https://pan.baidu.com/s/1JxH2jNJhAD0eMGLG1DQ6pg?pwd=43hi",
-    "release_url":  "https://pan.baidu.com/s/1JxH2jNJhAD0eMGLG1DQ6pg?pwd=43hi"
+    "version":  "1.5.4",
+    "notes":  "v1.5.4 更新内容：\r\n\n优化实时重建速度，恢复默认 800×500 成像网格。\r\n\n优化 TimeWeight，每条 A-line 仅预处理一次。\r\n\n修复64路配准步长受显示分辨率影响的问题。\r\n\n提升实时显示帧率和运行稳定性。",
+    "installer_url":  "https://pan.baidu.com/s/1Y1s3Q8W0fdgLZcxhKa5eMQ?pwd=vumk",
+    "release_url":  "https://pan.baidu.com/s/1Y1s3Q8W0fdgLZcxhKa5eMQ?pwd=vumk"
 }

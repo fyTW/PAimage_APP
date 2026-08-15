@@ -2,9 +2,9 @@
 
 Download the latest installer directly:
 
-[PAimage_Setup.exe](https://pan.baidu.com/s/1JxH2jNJhAD0eMGLG1DQ6pg?pwd=43hi)
+[PAimage_Setup.exe](https://pan.baidu.com/s/1Y1s3Q8W0fdgLZcxhKa5eMQ?pwd=vumk)
 
-SHA256: 063A7D324390444B50CFDA7E3485918290B85FEBABC259CBF8B8B9E428186C27
+SHA256: 77BA04A448F75E1EF5E880ADCC96754901D2B877725E95ECC6A81233A43B1A74
 
 This repository only contains the installer and update manifest. It does not
 contain source code.
